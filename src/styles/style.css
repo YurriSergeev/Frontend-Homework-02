@@ -1,0 +1,92 @@
+@font-face{
+	font-family: 'Century Gothic';
+	src: url(../fonts/GOTHIC.TTF);
+}
+body{
+	font-family: 'Century Gothic';
+}
+.header{
+	margin-top: 60px; 
+}
+.content{
+	margin-left: 25%;
+	margin-right: 25%;
+	min-width: 500px;
+	padding: 0px;
+	font-size: 14px;
+}
+.name{
+	text-transform: uppercase;
+	font-size: 200%;
+}
+.profession{
+	clear: both;
+	font-size: 80%;
+	margin-bottom: 10px;
+}
+.details{
+	clear: both;
+	font-size: 70%;
+	color: DimGrey;
+}
+.paragraph{
+	color: DimGrey;
+}
+.left-column{
+	float: left;
+    width: 30%;
+    min-width: 100px;
+    padding-top: 3%;
+}
+.right-column{
+	float: right;
+    width: 65%;   
+    min-width: 100px;	 
+}
+.yelp{
+	background: gold;
+	width: 25%;
+	min-width: 80px;
+	margin-bottom: 0px;
+}
+.bar-border{
+	margin-right: 10%;
+	outline: 1px solid LightGray; 
+}
+.bar-name{
+	margin-bottom: 2px;
+}
+.progress{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+}
+.progress{
+	height: 8px;
+	width: 60%;
+}
+.ref{
+	margin: 0px;
+    width: 100%;
+    padding: 0px;
+}
+.contacts{
+	font-size: 60%;
+}
+.person{
+	font-size: 120%;
+}
+.refstable{
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.numAndMail{
+	color: Grey;
+}
+.yline{
+	clear: both;
+	width: 100%;
+	height: 20px;
+	background-color: gold;
+}
